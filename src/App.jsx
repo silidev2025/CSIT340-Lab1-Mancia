@@ -16,7 +16,6 @@ function App() {
             what part of that I enjoy most. So far it is the part where something finally runs.
           </p>
         </section>
-
         <section className="mb-10">
           <h2 className="text-xl font-semibold mb-3">Details</h2>
           <p className="leading-relaxed text-slate-700">
@@ -27,7 +26,6 @@ function App() {
             Hometown: Talisay City, Cebu
           </p>
         </section>
-
         <section className="mb-10">
           <h2 className="text-xl font-semibold mb-3">Things I like</h2>
           <ul className="list-disc list-inside space-y-1 text-slate-700">
@@ -56,3 +54,4 @@ function App() {
 }
 
 export default App
+
